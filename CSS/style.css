@@ -42,3 +42,31 @@ li{
 	/*ukurannya*/
 	padding: 0 8px;
 }
+
+section{
+	padding: 40px; /* menjorokkan kalimat/paragraf ke dalam*/
+}
+#hero{
+	display: flex;
+}
+
+#info {
+	width: 50%;
+}
+
+#info p{
+	padding-right: 24px;
+	line-height: 25px;
+	color: #717171;
+	font-size: 14px;
+
+}
+
+#gambar{
+	width: 50%;
+
+}
+#gambar img{
+	width: 100%;
+	border-radius: 20px; /* untuk membuat ujung-ujung gambar menjadi bulat*/
+}
