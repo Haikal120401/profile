@@ -20,6 +20,12 @@ nav img{
 
 
 }
+
+nav ul li a{
+	text-decoration: none; /* supaya tdk ada garis */
+	color: white;/* supaya textnya putih*/
+}
+
 ul{
 	margin: 0;
 	padding-top: 20px;
