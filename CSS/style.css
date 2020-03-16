@@ -11,6 +11,8 @@ body{
 
 html{
 	scroll-behavior: smooth;
+	background-color: lightgrey;
+
 }
 
 nav{
@@ -54,7 +56,21 @@ li{
 
 section{
 	padding: 40px; /* menjorokkan kalimat/paragraf ke dalam*/
+	font-size: 35px;
 }
+
+section div p{
+	font-size: 100px;
+}
+
+section ul ol{
+	float: left;
+}
+p{
+	font-size: 25px;
+}
+
+
 #hero{
 	display: flex;
 }
